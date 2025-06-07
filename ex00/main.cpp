@@ -33,7 +33,7 @@ int main(void)
         std::cout << "Find in vector: " << resVect << std::endl;
 
         int resList = easyfind(ls, 8);
-        std::cout << "Find in vector: " << resList << std::endl;
+        std::cout << "Find in list: " << resList << std::endl;
 
         double resDeque = easyfind(deq, 9);
         std::cout << "Find in deque: " << resDeque << std::endl;
